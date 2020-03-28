@@ -105,3 +105,4 @@ Run the script [example.R](example.R) in R using `source("example.R")`, will pro
 + [Top 7 R resources on COVID-19 Coronavirus](https://www.statsandr.com/blog/top-r-resources-on-covid-19-coronavirus/)
 + [COVID-19 Coronavirus Disease resources](http://covirusd.com/resources/)
 
+# ryan.nCov2019
